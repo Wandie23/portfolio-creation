@@ -10,8 +10,8 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ##  1. Career Counselling
 
 ###  Evidence:
-- Participated in a career guidance session focused on aligning academic paths with career options in IT Networking.
-- Completed a goal-setting plan linked to networking career goals.
+-I have Participated in a career guidance session focused on aligning academic paths with career options in IT Networking.
+- I also completed a goal-setting plan linked to networking career goals.
 
 ###  STAR Reflection:
 - **Situation:** I was uncertain about my career path within ICT.
@@ -23,15 +23,15 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 
 ##  2. Skills and Interests
 
-###  Evidence:
-- HTML/CSS coding project: [GitHub Repo Link]
+- HTML/CSS coding 
 - IP/TCP Configuration lab exercises
+- Linux operating System fundamentals
 - Weekly academic goals and personal interest reflection journal
 
 ###  STAR Reflection:
 - **Situation:** I was assigned practical tasks during training and studies that aligned with my interests in coding and networks.
 - **Task:** Apply skills in real-world scenarios and document them.
-- **Action:** I developed a sample website using HTML/CSS and configured network protocols in lab simulations.
+- **Action:** I developed a sample website using HTML/CSS and configured network protocols in lab simulations like Cisco Parket tracer.
 - **Result:** These tasks confirmed my passion for backend systems and helped me recognize strengths in structured problem-solving.
 
 ---
@@ -39,7 +39,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ##  3. Personality Assessment
 
 ###  Evidence:
-- Completed a personality test during work readiness training (e.g., MBTI or DISC)
+- Completed a personality test during work readiness training 
 - Results indicated strengths in logical thinking, analysis, and independence.
 
 ###  STAR Reflection:
@@ -54,7 +54,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 
 ###  Evidence:
 - Developed a professional CV highlighting academic background, networking knowledge, and technical skills.
-- View my CV: [Link to CV in repo or embedded image]
+
 
 ### STAR Reflection:
 - **Situation:** I was required to submit a CV as part of the training.
