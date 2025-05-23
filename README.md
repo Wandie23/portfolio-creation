@@ -54,6 +54,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ---
 
 ##  4. Curriculum Vitae (CV)
+![p4](p4.png)
 
 ###  Evidence:
 - Developed a professional CV highlighting academic background, networking knowledge, and technical skills.
