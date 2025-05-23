@@ -23,6 +23,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ---
 
 ##  2. Skills and Interests
+![p2](p2.png)
 
 - HTML/CSS coding 
 - IP/TCP Configuration lab exercises
