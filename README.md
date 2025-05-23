@@ -68,7 +68,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 
 ###  Evidence:
 - Submitted my CV on time to the designated platform.
-- [Optional: Include screenshot of submission confirmation]
+-[Download Wandile Mhlongo's Resume](Wandile%20Mhlongo%20Resume%20updated.docx)
 
 ###  STAR Reflection:
 - **Situation:** The final step of the program required official CV submission.
