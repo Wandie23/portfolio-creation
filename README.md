@@ -8,6 +8,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ---
 
 ##  1. Career Counselling
+![Preview](p1.png)
 
 ###  Evidence:
 -I have Participated in a career guidance session focused on aligning academic paths with career options in IT Networking.
