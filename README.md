@@ -39,6 +39,7 @@ Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring i
 ---
 
 ##  3. Personality Assessment
+![p3](p3.png)
 
 ###  Evidence:
 - Completed a personality test during work readiness training 
